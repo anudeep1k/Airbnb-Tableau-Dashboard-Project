@@ -76,6 +76,7 @@ This dashboard solves that by providing **interactive pricing, geo, and trend in
 ## 📁 Dataset
 
 * **Dataset:** Airbnb 2016 Listings Dataset
+* **Source (Kaggle):** [https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)
 * Fields include:
 
   * listing price
